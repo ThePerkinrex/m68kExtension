@@ -1,0 +1,4 @@
+
+[submodule "bsvc"]
+	path = bsvc
+	url = https://github.com/ThePerkinrex/bsvc.git
